@@ -1,4 +1,9 @@
 # Implement-Opening-and-Closing-using-Python-and-OpenCV
+
+## Name : Harini S
+## Reg no : 212224240049
+## Exp no: 10
+
 ## Aim
 
 To implement Morphological Opening and Closing operations using Python and OpenCV on a text image and visualize the output using Matplotlib.
